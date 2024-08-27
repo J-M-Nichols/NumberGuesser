@@ -12,6 +12,9 @@ Number Guesser is a simple human vs. computer guessing game built with JavaScrip
 2. Click “Make a Guess” to submit your guess and see who won the round.
 3. Click “Next Round” to play again.
 
+## Live Demo
+The project is hosted on GitHub Pages and can be viewed [here](https://j-m-nichols.github.io/NumberGuesser/).
+
 ## Technologies Used
 - HTML
 - CSS
